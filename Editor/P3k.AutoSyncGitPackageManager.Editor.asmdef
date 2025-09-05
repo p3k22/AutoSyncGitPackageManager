@@ -1,0 +1,18 @@
+{
+    "name": "P3k.AutoSyncGitPackageManager.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf3c44c5db882b848acbfe6c58b8760d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

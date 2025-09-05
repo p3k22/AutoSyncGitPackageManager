@@ -1,0 +1,12 @@
+{
+    "name": "com.p3k.autosyncgitpackagemanager",
+    "version": "1.0.0",
+    "displayName": "Auto Sync Git Package Manager",
+    "description": "",
+    "unity": "2020.1",
+    "documentationUrl": "https://github.com/p3k22/AutoSyncGitPackageManager#readme",
+    "author": {
+        "name": "P3k"
+    }
+  
+}
