@@ -1,0 +1,54 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+ProjectSettings/EditorBuildSettings.asset
+
+# Unity cache
+sysinfo.txt
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.svd
+*.pdb
+*.mdb
+
+# Visual Studio
+.vs/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+*.booproj
+*.svd
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Ignore crash logs
+*.stackdump
+
+# Rider / VS Code / JetBrains
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.DotSettings
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+
+# Custom ignored files
+*.asset
+*.asset.meta
+*.bat
+*.bat.meta
