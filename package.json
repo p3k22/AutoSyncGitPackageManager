@@ -1,0 +1,11 @@
+{
+  "name": "com.p3k.gitpackagemanager",
+  "version": "1.0.0",
+  "displayName": "Git Package Manager",
+  "description": "",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/p3k22/GitPackageManager/#readme",
+  "author": {
+    "name": "P3k"
+  }
+}
